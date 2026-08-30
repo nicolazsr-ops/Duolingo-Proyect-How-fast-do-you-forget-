@@ -4,7 +4,7 @@ install.packages("readx1")
 
 ## Vamos a cargar nuestos dataframes:
 
-datos_word_difficulty <- read.csv("C:\Users/nisan/OneDrive - ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO/MAESTRÍA CIENCIA DE DATOS/MODELOS ESTADÍSTICOS/PROYECTO/word_difficulty.csv")
+datos_word_difficulty <- read.csv("C/Users/nisan/OneDrive - ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO/MAESTRÍA CIENCIA DE DATOS/MODELOS ESTADÍSTICOS/PROYECTO/word_difficulty.csv")
 datos_learning_traces_sample <- read.csv("C:/Users/nisan/OneDrive - ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO/MAESTRÍA CIENCIA DE DATOS/MODELOS ESTADÍSTICOS/PROYECTO/learning_traces_sample.csv")
 
 #necesitamos llamar a la librería
