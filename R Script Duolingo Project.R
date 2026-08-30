@@ -65,5 +65,9 @@ descr(datos_learning_traces_sample$session_correct)
 
 (Pos =table(datos_learning_traces_sample$pos))
 
+##Hola
+
+
+
 
 
