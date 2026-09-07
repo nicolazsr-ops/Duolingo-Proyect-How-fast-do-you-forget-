@@ -28,12 +28,6 @@ View(datos_learning_traces_sample)
 # Para revisar los primeros datos: head(datos_word_difficulty)  (dado por GPT)
 
 
-## Variable Objetivo
-
-#   p_recall:  Porcentaje de aciertos sobre apariciones de la palabra en la sesión
-#descr(datos_learning_traces_sample$p_recall)
-
-
 ## Variables Númericas
 
 #   history_seen: Número de veces que el estudiante había visto la palabra anteriormente
