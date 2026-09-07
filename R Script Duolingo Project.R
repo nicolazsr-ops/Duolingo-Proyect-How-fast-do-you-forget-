@@ -29,6 +29,7 @@ View(datos_learning_traces_sample)
 
 
 ## Variable Objetivo
+
 #   p_recall:  Porcentaje de aciertos sobre apariciones de la palabra en la sesión
 #descr(datos_learning_traces_sample$p_recall)
 
